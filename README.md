@@ -1,2 +1,2 @@
 # awesome-management
-Resources for Management 
+Resources for Managers 
